@@ -1,4 +1,4 @@
-# Hi there, I'm Himadri Bhardwaj 👋
+# Hey, I'm Himadri 👋
 
 ### 🌟 About Me
 Full-stack & game developer passionate about building apps, games, and automation tools that solve real problems.  
