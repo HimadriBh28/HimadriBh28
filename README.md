@@ -6,7 +6,7 @@ Full-stack & game developer passionate about building apps, games, and automatio
 - 💻 **Currently building:** Mobile apps, games, and UNIX tools  
 - 🌱 **Learning:** Advanced algorithms, DevOps, cloud technologies  
 - 🔭 **Passionate about:** Flutter, React Native, Unity, and full-stack development  
-- 📫 **Reach me at:** [your-email@example.com]    
+- 📫 **Reach me at:** [himadribhardwaj56@gmail.com]    
 
 ---
 
@@ -41,5 +41,5 @@ Here are some of my key projects:
 ---
 
 ### 💬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/himadri-bhardwaj-947518289/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin]](https://www.linkedin.com/in/himadri-bhardwaj-947518289/))  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himadribhardwaj56@gmail.com)
