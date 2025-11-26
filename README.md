@@ -21,6 +21,7 @@ Full-stack & game developer passionate about building apps, games, and automatio
 
 ---
 
+
 ### 🚀 Featured Projects
 Here are some of my key projects:
 
@@ -34,11 +35,20 @@ Here are some of my key projects:
 ---
 
 ### 📊 GitHub Stats
-![Himadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimadriBh28&commits_year=2020)
+![HimadriBh28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimadriBh28&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimadriBh28&theme=radical)
+
+
 
 ---
 
 ### 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/himadri-bhardwaj-947518289/))  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himadribhardwaj56@gmail.com)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
