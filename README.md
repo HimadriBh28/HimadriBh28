@@ -3,7 +3,7 @@
 ### 🌟 About Me
 Full-stack & game developer passionate about building apps, games, and automation tools that solve real problems.  
 
-- 💻 **Currently building:** Mobile apps, games, and UNIX tools  
+- 💻 **Currently building:** Mobile apps and games  
 - 🌱 **Learning:** Advanced algorithms, DevOps, cloud technologies  
 - 🔭 **Passionate about:** Flutter, React Native, Unity, and full-stack development  
 - 📫 **Reach me at:** [himadribhardwaj56@gmail.com]    
