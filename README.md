@@ -26,7 +26,7 @@ Full-stack & game developer passionate about building apps, games, and automatio
 
 
 ### 🚀 Featured Projects
-Here are some of my key projects:
+Here are some of my projects:
 
 - **[MusicBoard](https://github.com/HimadriBh28/MusicBoard)** – A Flutter music app that lets users rate and review albums.  
 - **[Team-8-Secure-Login-System](https://github.com/HimadriBh28/Team-8-Secure-Login-System)** – A secure login system built in PHP.  
