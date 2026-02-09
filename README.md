@@ -42,7 +42,6 @@ Here are some of my projects:
 - **[DodgeIt-](https://github.com/HimadriBh28/DodgeIt-)** – My first Unity game; navigate the player while avoiding obstacles.  
 - **[movie_review_app](https://github.com/HimadriBh28/movie_review_app)** – React Native app for reviewing movies with ratings and comments.  
 - **[DuplicateCleanerProject](https://github.com/HimadriBh28/DuplicateCleanerProject)** – UNIX tool to scan and clean duplicate files.  
-- **[jyc-website](https://github.com/HimadriBh28/jyc-website)** – Web project for managing and updating photos.  
 
 ---
 
