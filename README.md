@@ -41,7 +41,8 @@ Here are some of my projects:
 - **[Team-8-Secure-Login-System](https://github.com/HimadriBh28/Team-8-Secure-Login-System)** – A secure login system built in PHP.  
 - **[DodgeIt-](https://github.com/HimadriBh28/DodgeIt-)** – My first Unity game; navigate the player while avoiding obstacles.  
 - **[movie_review_app](https://github.com/HimadriBh28/movie_review_app)** – React Native app for reviewing movies with ratings and comments.  
-- **[DuplicateCleanerProject](https://github.com/HimadriBh28/DuplicateCleanerProject)** – UNIX tool to scan and clean duplicate files.  
+- **[AlumniConnect](https://github.com/HimadriBh28/Alumini_Management_System)** – A full stack website for alumni management
+- **[DuplicateCleanerProject](https://github.com/HimadriBh28/DuplicateCleanerProject)** – UNIX tool to scan and clean duplicate files.
 
 ---
 
